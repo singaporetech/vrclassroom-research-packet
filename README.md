@@ -17,7 +17,7 @@ Then we ran a user study with students in actual learning settings:
 
 The current artifact is a set of guidelines derived from the findings above, in the README here:
 
-https://github.com/singaporetech/immersification-vr-classrooms.
+https://github.com/singaporetech/immersification-vr-classrooms
 
 This serves as a set of pointers for anyone hoping to employ HMDs in generic classroom settings over extended periods rather than a one-off task.
 
