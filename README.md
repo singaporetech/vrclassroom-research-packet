@@ -6,12 +6,13 @@ Amid the transition to a post-COVID era, remote classrooms play an increasingly 
 
 We started with an expert evaluation:
 
-![expert-eval-rankings2](https://github.com/singaporetech/vrclassroom-research-packet/assets/3528274/959c161f-6d0b-47b7-8c52-4da62cc25e5a)
-![code_experience_stats](https://github.com/singaporetech/vrclassroom-research-packet/assets/3528274/41c53830-933c-469e-803e-626768e62809)
+<img width="665" alt="Screenshot 2023-12-07 at 12 12 58 AM" src="https://github.com/singaporetech/vrclassroom-research-packet/assets/3528274/959c161f-6d0b-47b7-8c52-4da62cc25e5a">
+
+<img width="665" alt="Screenshot 2023-12-07 at 12 12 58 AM" src="https://github.com/singaporetech/vrclassroom-research-packet/assets/3528274/f17d35b1-73ce-4ce6-a4fc-f9610e1af1e0">
 
 Then we ran a user study with students in actual learning settings:
 
-<img width="641" alt="Screenshot 2023-12-06 at 5 22 42 PM" src="https://github.com/singaporetech/vrclassroom-research-packet/assets/3528274/92180d88-fa2e-4afc-bb47-090d32506b66">
+<img width="380" alt="Screenshot 2023-12-06 at 5 22 42 PM" src="https://github.com/singaporetech/vrclassroom-research-packet/assets/3528274/92180d88-fa2e-4afc-bb47-090d32506b66">
 
 # Usable Artifact
 
