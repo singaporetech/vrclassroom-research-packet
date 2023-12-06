@@ -6,8 +6,8 @@ Amid the transition to a post-COVID era, remote classrooms play an increasingly 
 
 We started with an expert evaluation:
 
-![expert-eval-rankings2](https://github.com/singaporetech/vrclassroom-research-packet/assets/3528274/d246c13c-786e-4153-96bc-2f2f693aea64)
-![code_expert_evaluation_stats](https://github.com/singaporetech/vrclassroom-research-packet/assets/3528274/ca4e6ea3-a8bd-4028-801d-c5927cec3f07)
+![expert-eval-rankings2](https://github.com/singaporetech/vrclassroom-research-packet/assets/3528274/959c161f-6d0b-47b7-8c52-4da62cc25e5a)
+![code_experience_stats](https://github.com/singaporetech/vrclassroom-research-packet/assets/3528274/41c53830-933c-469e-803e-626768e62809)
 
 Then we ran a user study with students in actual learning settings:
 
