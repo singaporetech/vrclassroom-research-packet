@@ -1,4 +1,4 @@
-# VR Classroom Experiences
+# vrclassroom-research-packet
 
 Amid the transition to a post-COVID era, remote classrooms play an increasingly vital role in student learning. This project started with a study comparing team-based learning experiences in **face-to-face**, **video conferencing**, and **virtual reality (VR)** conditions. The findings reveal both benefits and limitations of VR-based classrooms, emphasizing the expressivity of avatars and customizable environments for personalized experiences. However, challenges such as potential distractions from excessive interactivity are noted. The study provides insights into the design considerations for optimizing VR to enhance remote classroom experiences.
 
