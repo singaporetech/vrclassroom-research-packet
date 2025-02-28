@@ -25,7 +25,7 @@ This serves as a set of pointers for anyone hoping to employ HMDs in generic cla
 # Papers
 
 ```
-@INPROCEEDINGS{10398392,
+@inproceedings{10398392,
   author={Jain, Nisha and Tan, Chek Tien and Lee, Chien Ching and Avnit, Karin and Shen, Songjia and Lee, Jeannie S.A.},
   booktitle={2023 IEEE International Conference on Teaching, Assessment and Learning for Engineering (TALE)}, 
   title={Exploring Team-based Classroom Experiences in Virtual Reality}, 
