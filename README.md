@@ -25,14 +25,15 @@ This serves as a set of pointers for anyone hoping to employ HMDs in generic cla
 # Papers
 
 ```
-@inproceedings{9678699,
-  author={Nisha Jain, Chien Ching Lee, Songjia Shen, Chek Tien Tan, Karin Avnit and Jeannie Lee},
-  booktitle={2023 IEEE International Conference on Engineering, Technology & Education (TALE)}, 
+@INPROCEEDINGS{10398392,
+  author={Jain, Nisha and Tan, Chek Tien and Lee, Chien Ching and Avnit, Karin and Shen, Songjia and Lee, Jeannie S.A.},
+  booktitle={2023 IEEE International Conference on Teaching, Assessment and Learning for Engineering (TALE)}, 
   title={Exploring Team-based Classroom Experiences in Virtual Reality}, 
   year={2023},
   volume={},
   number={},
-  pages={1-15},
-  doi={tbc}
+  pages={1-8},
+  keywords={Federated learning;Avatars;Education;Virtual environments;Collaboration;Task analysis;Videoconferences;virtual reality;classroom;learning;immersion},
+  doi={10.1109/TALE56641.2023.10398392}
 }
 ```
